@@ -8,7 +8,7 @@
 #ifndef INC_M24C16_H_
 #define INC_M24C16_H_
 
-#include "stm32f1xx_hal.h"
+#include "main.h"
 
 #define EEPROM_BASE_ADDR         (0x50)
 #define EEPROM_PAGE_COUNT        (128)
